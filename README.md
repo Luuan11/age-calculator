@@ -2,6 +2,10 @@
 📜 Calculadora de Idade Feito em HTML, CSS e JavaScript.
 ![age](https://user-images.githubusercontent.com/79935555/138799285-566c29ad-4c82-4825-816c-7967e424936c.png)
 
+### <p align="center"> <a href="https://luuan11.github.io/age-calculator/age.html/">Clique aqui para ver meu projeto!</a> </p>
+
+---
+
 ### 🧮 Sobre
 Calculadora de Idade, programa para saber quantos anos, meses e dias você possui, Boa sorte :D
 
